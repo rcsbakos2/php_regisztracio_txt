@@ -1,0 +1,56 @@
+label{float:right;}
+	body{
+		
+		width:40%;
+        margin-left:auto;
+        margin-right:auto;
+		
+	}
+	table{
+		margin-left:auto;
+        margin-right:auto;
+		
+	}
+	#login{
+		
+		border:1px outset silver;
+		display: block;
+		margin: 0 auto;
+		height:300px;
+		
+	}
+	#kozepre{
+		text-align: center;
+		vertical-align: middle; 
+		
+		
+	}
+	.b_eltarol{
+		float:right;
+		
+		
+		
+	}
+	.eltolva{
+		
+		margin:2% 0;
+	}
+	#error{
+		border: none;
+		color:red;
+		text-align: center;
+		vertical-align: middle;
+		margin:20px;
+		
+	}		
+	.b_eltarol{
+		 
+		width:15%;
+		background-color:silver;
+		border:none;
+		margin-right:35%;
+	}
+	.label_balra{
+		
+		margin-right:5%;
+	}
